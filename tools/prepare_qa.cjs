@@ -1,0 +1,25 @@
+const fs = require('fs');
+const path = require('path');
+const root = path.resolve(__dirname, '..');
+const site = path.join(root, '交付/八十八个地名_交付包/01_作品及成果文件/八十八个地名');
+const data = path.join(root, '交付/八十八个地名_交付包/工作记录');
+const c = {window:{}};
+require('vm').runInNewContext(fs.readFileSync(path.join(site,'js/content.js'),'utf8'),c);
+require('vm').runInNewContext(fs.readFileSync(path.join(site,'js/sources.js'),'utf8'),c);
+const content=c.window.CONTENT, sources=c.window.SOURCES;
+const ids=new Set(sources.map(s=>s.id));
+const checks=[];
+function check(name,passed,detail){checks.push({name,passed,detail});}
+check('九段叙事',content.scenes.length===9,content.scenes.length);
+check('计划完整体验时长',content.scenes.reduce((s,x)=>s+x.duration,0)===440,'440秒；实际体验由用户操作决定');
+check('旁白总字数',content.scenes.map(x=>x.narration).join('').length<=750,content.scenes.map(x=>x.narration).join('').length);
+check('每幕旁白长度',content.scenes.every(x=>x.narration.length<=90),'每幕不超过90字');
+check('事实来源编号有效',content.scenes.every(x=>x.sourceIds.every(id=>ids.has(id))&&x.facts.every(f=>f.sourceIds.every(id=>ids.has(id)))),'含全部上屏事实');
+check('素材完整',content.scenes.every(x=>fs.existsSync(path.join(site,'assets/img',x.image))),'4张已生成场景图');
+check('禁止使用冲突资料上屏',content.scenes.every(x=>!x.sourceIds.some(id=>['S10','S11'].includes(id))),'冲突仅作核验线索');
+check('统一地名边界',/非完整/.test(content.placesNote),'10名称是报道选用名单，非完整路线');
+check('公开来源字段',sources.every(s=>s.url&&s.title&&s.institution),'仅检索状态，未伪称人工核验');
+fs.mkdirSync(data,{recursive:true});
+fs.writeFileSync(path.join(data,'static-checks.json'),JSON.stringify(checks,null,2));
+console.log(JSON.stringify(checks,null,2));
+if(checks.some(c=>!c.passed))process.exitCode=1;

@@ -1,0 +1,65 @@
+{
+  "project": "八十八个地名",
+  "date": "2026-10-22",
+  "tool": "OpenAI built-in image_gen.imagegen",
+  "mode": "built-in, one independent request per asset",
+  "team_manual_postproduction": false,
+  "team_manual_approval": "待团队人工核验；用户确认暂时没有人工实拍、配音、图像后期",
+  "provenance_label": "AI生成艺术示意；非历史照片，非文物复原",
+  "scope": "仅格式编码、压缩及AI元数据标注，不做人工图像后期的声明",
+  "visual_review": "4张均经AI代理视觉检查，符合无文字、无可辨面孔、无旗徽、无血腥及非档案要求；此检查不能代替团队人工复核。",
+  "images": [
+    {
+      "name": "bamboo",
+      "prompt": "Use case: historical-scene. Asset type: narrative offline web artwork, commissioned contemporary AI artistic illustration, NOT historical evidence or a reproduction of an actual artifact. Landscape wide image, 16:9 preferably 2048x1152. Visual language: Chinese 1940s liberated-area woodcut printmaking, bold coarse knife-cut marks, stark ink silhouettes, sparse confident linework, restrained fine paper texture. Strict palette warm ivory paper #EFE6D2 and near-black ink #1C1A17; no other colors. Main subject in right 60% of composition; left 40% largely warm blank paper as quiet negative space for webpage copy. Edge-to-edge illustration, no frame, no labels, no letters, no Chinese characters, no numbers, no watermark, no seals, no readable faces, no flags, no emblems, no uniforms, no violence, no archival photograph appearance. Primary request: close study of a single plain bamboo walking pole lying diagonally on bare warm paper from lower middle toward upper right, clearly visible natural nodes and cylindrical bamboo surface suggested by woodcut ridges. Dramatic but restrained side lighting gives a simple angular cast shadow. The bamboo pole is completely uninscribed: no lettering, no symbols, no carved marks, no fake reconstruction of historical inscriptions. A quiet contemplative material study.",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 247834,
+      "webp_quality": 92,
+      "sha256": "ebd080fd9a35c16dadf525e7b8c4974bea1a29f295d83a17dfcec8dfabaffa53",
+      "xmp_ai_provenance": true,
+      "manual_postproduction": false
+    },
+    {
+      "name": "journey",
+      "prompt": "Use case: historical-scene. Asset type: narrative offline web artwork, commissioned contemporary AI artistic illustration, NOT historical evidence or a reproduction of an actual artifact. Landscape wide image, 16:9 preferably 2048x1152. Visual language: Chinese 1940s liberated-area woodcut printmaking, bold coarse knife-cut marks, stark ink silhouettes, sparse confident linework, restrained fine paper texture. Strict palette warm ivory paper #EFE6D2 and near-black ink #1C1A17; no other colors. Main subject in right 60% of composition; left 40% largely warm blank paper as quiet negative space for webpage copy. Edge-to-edge illustration, no frame, no labels, no letters, no Chinese characters, no numbers, no watermark, no seals, no readable faces, no flags, no emblems, no uniforms, no violence, no archival photograph appearance. Primary request: anonymous rural adult laborer seen only from rear and back three-quarter silhouette, pushing a traditional Chinese wooden single central wheel grain barrow along an uneven earthen road in late autumn or winter. The wooden wheel is centered under cargo, hands correctly gripping two long rear handles; two cloth grain sacks balanced either side. Simple cotton work clothes and cloth shoes, no costume detail. A few distant bare trees and a very low empty horizon. No lush summer crops, no mature wheat sea. Broad open pale sky with generous blank area on left. Quiet strength and forward movement. Anatomy and barrow geometry must be plausible.",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 318526,
+      "webp_quality": 88,
+      "sha256": "d38d38a6b7e96c7cde91d5654bf88039e54ee8ed0470f54eb43c6ef22d4e77b8",
+      "xmp_ai_provenance": true,
+      "manual_postproduction": false
+    },
+    {
+      "name": "together",
+      "prompt": "Use case: historical-scene. Asset type: narrative offline web artwork, commissioned contemporary AI artistic illustration, NOT historical evidence or a reproduction of an actual artifact. Landscape wide image, 16:9 preferably 2048x1152. Visual language: Chinese 1940s liberated-area woodcut printmaking, bold coarse knife-cut marks, stark ink silhouettes, sparse confident linework, restrained fine paper texture. Strict palette warm ivory paper #EFE6D2 and near-black ink #1C1A17; no other colors. Main subject in right 60% of composition; left 40% largely warm blank paper as quiet negative space for webpage copy. Edge-to-edge illustration, no frame, no labels, no letters, no Chinese characters, no numbers, no watermark, no seals, no readable faces, no flags, no emblems, no uniforms, no violence, no archival photograph appearance. Primary request: three anonymous rural adult laborers, entirely rear-facing silhouettes, cooperate to move a traditional Chinese wooden single central wheel grain barrow up a muddy incline toward the right. One person behind firmly grips both handles, two helpers lean forward with hands pressing the sides of the loaded wooden frame, correct plausible physical contact. Cloth sacks of grain, coarse cotton work jackets, trousers, cloth shoes. No individual likeness, no facial features, no weapons. Heavy broad woodcut shadows show wheel rut, slope and exertion. Background is spare blank pale paper with a low horizon, no busy structures.",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 339754,
+      "webp_quality": 88,
+      "sha256": "fbf1ebe01e40e3f3b3d792cc220c7a14aa9845b11dcacd12be087ff5486f8018",
+      "xmp_ai_provenance": true,
+      "manual_postproduction": false
+    },
+    {
+      "name": "fields",
+      "prompt": "Use case: illustration-story. Asset type: narrative offline web artwork, commissioned contemporary AI artistic illustration, NOT historical evidence or a reproduction of an actual artifact. Landscape wide image, 16:9 preferably 2048x1152. Visual language: Chinese 1940s liberated-area woodcut printmaking, bold coarse knife-cut marks, stark ink silhouettes, sparse confident linework, restrained fine paper texture. Strict palette warm ivory paper #EFE6D2 and near-black ink #1C1A17; no other colors. Main subject in right 60% of composition; left 40% largely warm blank paper as quiet negative space for webpage copy. Edge-to-edge illustration, no frame, no labels, no letters, no Chinese characters, no numbers, no watermark, no seals, no readable faces, no flags, no emblems, no uniforms, no violence, no archival photograph appearance. Primary request: a peaceful present-day North China wheat field and narrow farm lane curving from lower right toward the distant horizon; the plants are explicitly wheat with narrow leaves, upright stalks and slender awned wheat ears, not rice, not reeds, not corn. Grain rows fill mainly the right and lower right, left upper half is warm unprinted sky; sparse distant trees. No people or machines needed. This is a contemporary rural landscape, an artistic wheat-field image rather than a season-specific reconstruction of the 1948 journey. Clear lyrical composition, calm light, coarse carved marks in foreground become finer toward horizon.",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 388312,
+      "webp_quality": 92,
+      "sha256": "984c3567906e3cea4c82ff90c9ce89f1a5237e6ddc9d8737b39b6a6c957c356b",
+      "xmp_ai_provenance": true,
+      "manual_postproduction": false
+    }
+  ]
+}

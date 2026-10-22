@@ -1,0 +1,87 @@
+{
+  "reviewedAt": "2026-10-22",
+  "method": "Poppler 110dpi渲染全部45页并视觉检查，pypdf检查文本和元数据；非团队人工核验",
+  "results": [
+    {
+      "file": "八十八个地名_交付包\\03_作品介绍文档\\八十八个地名_作品介绍.pdf",
+      "pages": 5,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\04_运行或使用说明\\八十八个地名_运行说明.pdf",
+      "pages": 1,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\05_补充成果材料\\事实底本与来源台账.pdf",
+      "pages": 8,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\05_补充成果材料\\禁用说法与团队人工核验清单.pdf",
+      "pages": 4,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\05_补充成果材料\\创作脚本与视觉声音规范.pdf",
+      "pages": 13,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\05_补充成果材料\\阶段交付与自检.pdf",
+      "pages": 7,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\06_第三方资源说明\\第三方资源与AI素材说明.pdf",
+      "pages": 1,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "八十八个地名_交付包\\07_AI工具使用补充说明\\人工智能工具使用补充说明.pdf",
+      "pages": 4,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    },
+    {
+      "file": "团队接手手册.pdf",
+      "pages": 2,
+      "author_empty": true,
+      "no_local_identity_path": true,
+      "all_pages_rendered": true,
+      "visual_review": "AI代理逐页检查：未见裁切、重叠、乱码或黑块；阶段自检末页孤段已修复"
+    }
+  ],
+  "finalRevision": "已纳入28+56=84项机器验收及两支1080p无音轨视频；T10/T21仍待人工",
+  "rerenderedDocuments": [
+    "作品介绍",
+    "阶段交付与自检",
+    "人工智能工具使用补充说明",
+    "团队接手手册"
+  ],
+  "rerenderedPages": 18,
+  "finalVisualReview": "18个改动文档页面已重新渲染并检查，无裁切/乱码/重叠；其他27页内容未变，沿用前次完整检查"
+}

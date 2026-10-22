@@ -1,0 +1,47 @@
+[
+  {
+    "name": "九段叙事",
+    "passed": true,
+    "detail": 9
+  },
+  {
+    "name": "计划完整体验时长",
+    "passed": true,
+    "detail": "440秒；实际体验由用户操作决定"
+  },
+  {
+    "name": "旁白总字数",
+    "passed": true,
+    "detail": 476
+  },
+  {
+    "name": "每幕旁白长度",
+    "passed": true,
+    "detail": "每幕不超过90字"
+  },
+  {
+    "name": "事实来源编号有效",
+    "passed": true,
+    "detail": "含全部上屏事实"
+  },
+  {
+    "name": "素材完整",
+    "passed": true,
+    "detail": "4张已生成场景图"
+  },
+  {
+    "name": "禁止使用冲突资料上屏",
+    "passed": true,
+    "detail": "冲突仅作核验线索"
+  },
+  {
+    "name": "统一地名边界",
+    "passed": true,
+    "detail": "10名称是报道选用名单，非完整路线"
+  },
+  {
+    "name": "公开来源字段",
+    "passed": true,
+    "detail": "仅检索状态，未伪称人工核验"
+  }
+]

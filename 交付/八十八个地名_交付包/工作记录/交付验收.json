@@ -1,0 +1,114 @@
+{
+  "build": "1.0-review",
+  "browserChecks": 84,
+  "siteBytes": 2151062,
+  "formalSubmissionReady": false,
+  "acceptance": [
+    {
+      "id": "T01",
+      "status": "通过",
+      "evidence": "Chrome中文及空格路径file://全九段，见acceptance-extra.json"
+    },
+    {
+      "id": "T02",
+      "status": "通过",
+      "evidence": "Edge中文及空格路径file://全九段，见acceptance-extra.json"
+    },
+    {
+      "id": "T03",
+      "status": "通过",
+      "evidence": "浏览器offline上下文与外网拦截；本地完整运行"
+    },
+    {
+      "id": "T04",
+      "status": "通过",
+      "evidence": "两组自动化检查均零脚本与控制台错误"
+    },
+    {
+      "id": "T05",
+      "status": "通过",
+      "evidence": "长按/键盘与点击替代，手机触屏仿真均完成六核心操作"
+    },
+    {
+      "id": "T06",
+      "status": "通过",
+      "evidence": "真实等待15.5秒后提示显示"
+    },
+    {
+      "id": "T07",
+      "status": "通过",
+      "evidence": "目录任意跳转、下一幕、Esc；手机底部目录常驻"
+    },
+    {
+      "id": "T08",
+      "status": "通过",
+      "evidence": "180秒模式按原速走过九段并结束，留实际MP4"
+    },
+    {
+      "id": "T09",
+      "status": "通过",
+      "evidence": "Chrome/Edge实际下载PNG，尺寸1080x1920；视觉检查海报"
+    },
+    {
+      "id": "T10",
+      "status": "待团队",
+      "evidence": "已有各幕旁白文字，尚无真人音频，不能验证音画误差<0.5秒"
+    },
+    {
+      "id": "T11",
+      "status": "通过",
+      "evidence": "未开始不创建AudioContext；点击开始解锁；静音状态切换"
+    },
+    {
+      "id": "T12",
+      "status": "通过（仿真范围）",
+      "evidence": "1366/1920九幕无横向溢出；390手机仿真操作可走通、导航不遮挡底部按钮"
+    },
+    {
+      "id": "T13",
+      "status": "通过",
+      "evidence": "正式AI场景图已替换素材位，无未完成场景；输入提示属于正常表单"
+    },
+    {
+      "id": "T14",
+      "status": "通过",
+      "evidence": "上屏事实S编号均有效，地名可打开来源层；史料仍待团队核验"
+    },
+    {
+      "id": "T15",
+      "status": "通过",
+      "evidence": "4张AI图角标与WebP XMP trainedAlgorithmicMedia保留"
+    },
+    {
+      "id": "T16",
+      "status": "通过",
+      "evidence": "关于页具来源、AI、资源许可和路线示意说明"
+    },
+    {
+      "id": "T17",
+      "status": "通过（已有身份范围）",
+      "evidence": "未录入参赛学校/团队/成员/导师；文档作者为空；原始资料不打包"
+    },
+    {
+      "id": "T18",
+      "status": "通过（AI视觉检查）",
+      "evidence": "四张场景图已查看，无写实真实人物面孔、旗帜或徽章；均标艺术示意"
+    },
+    {
+      "id": "T19",
+      "status": "通过",
+      "evidence": "无得分/排名/通关玩法与血腥画面"
+    },
+    {
+      "id": "T20",
+      "status": "通过（本机测量）",
+      "evidence": "作品目录2.05MiB；Chrome三次176–187ms，Edge264–349ms至字体就绪"
+    },
+    {
+      "id": "T21",
+      "status": "待团队",
+      "evidence": "尚未在另一台没有开发环境的真实电脑上复测"
+    }
+  ],
+  "note": "通过仅限已记录的自动化和AI检查范围。T10/T21及团队人工贡献仍需真实完成。"
+}

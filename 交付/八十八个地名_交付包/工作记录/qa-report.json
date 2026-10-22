@@ -1,0 +1,134 @@
+{
+  "testedAt": "2026-10-22T06:19:09.669Z",
+  "method": "自动化浏览器实际打开file://；不是团队真人试用",
+  "results": [
+    {
+      "name": "Chrome离线入口",
+      "passed": true,
+      "detail": "151.0.7922.34"
+    },
+    {
+      "name": "刻字中断保留进度",
+      "passed": true,
+      "detail": "0.327"
+    },
+    {
+      "name": "刻字累计三秒完成",
+      "passed": true
+    },
+    {
+      "name": "装车反馈",
+      "passed": true
+    },
+    {
+      "name": "推车五节点四十秒内完成",
+      "passed": true,
+      "detail": "29秒"
+    },
+    {
+      "name": "推车五节点均点亮",
+      "passed": true
+    },
+    {
+      "name": "首次推行动作",
+      "passed": true
+    },
+    {
+      "name": "第二次协作十二只手",
+      "passed": true
+    },
+    {
+      "name": "键盘侧光读十地名",
+      "passed": true
+    },
+    {
+      "name": "地名来源弹窗",
+      "passed": true
+    },
+    {
+      "name": "弹窗Esc关闭",
+      "passed": true
+    },
+    {
+      "name": "543点与统计同屏",
+      "passed": true
+    },
+    {
+      "name": "空地名校验",
+      "passed": true
+    },
+    {
+      "name": "地名限制八字符",
+      "passed": true
+    },
+    {
+      "name": "海报本地PNG下载1080x1920",
+      "passed": true
+    },
+    {
+      "name": "仅三个固定寄语",
+      "passed": true
+    },
+    {
+      "name": "AI与声音披露",
+      "passed": true
+    },
+    {
+      "name": "字幕开关",
+      "passed": true
+    },
+    {
+      "name": "静音状态",
+      "passed": true
+    },
+    {
+      "name": "十五秒无操作提示",
+      "passed": true
+    },
+    {
+      "name": "Esc跳过",
+      "passed": true
+    },
+    {
+      "name": "目录自由跳转",
+      "passed": true
+    },
+    {
+      "name": "快览九段自动完成",
+      "passed": true
+    },
+    {
+      "name": "390像素手机九段无横向溢出",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "减少动效保留543点",
+      "passed": true
+    },
+    {
+      "name": "Edge离线操作与海报导出",
+      "passed": true,
+      "detail": "155.0.4283.62"
+    },
+    {
+      "name": "运行期间无自动外网请求",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "浏览器无脚本或控制台错误",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "pending": [
+    "团队人工逐条史料核验与截图",
+    "真人配音、后期及音画验收",
+    "另一台真实电脑离线复测",
+    "报名、承诺书与盖章",
+    "真实用户可用性反馈"
+  ]
+}

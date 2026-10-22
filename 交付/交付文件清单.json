@@ -1,0 +1,267 @@
+[
+  {
+    "path": "00_先读我.txt",
+    "bytes": 1648,
+    "sha256": "c3a21fc7f6bb9e9608f69aef213ae509ca0161dbfee9eef9983a6f77c5844b3c"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/assets/img/bamboo.webp",
+    "bytes": 247834,
+    "sha256": "ebd080fd9a35c16dadf525e7b8c4974bea1a29f295d83a17dfcec8dfabaffa53"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/assets/img/fields.webp",
+    "bytes": 388312,
+    "sha256": "984c3567906e3cea4c82ff90c9ce89f1a5237e6ddc9d8737b39b6a6c957c356b"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/assets/img/journey.webp",
+    "bytes": 318526,
+    "sha256": "d38d38a6b7e96c7cde91d5654bf88039e54ee8ed0470f54eb43c6ef22d4e77b8"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/assets/img/together.webp",
+    "bytes": 339754,
+    "sha256": "fbf1ebe01e40e3f3b3d792cc220c7a14aa9845b11dcacd12be087ff5486f8018"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/css/fonts.css",
+    "bytes": 759469,
+    "sha256": "ee5426a60cf8b2e8d0135dfc0f0738dc3676948db0f538cc1e71bfa560415d52"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/css/style.css",
+    "bytes": 21621,
+    "sha256": "01c9afd2bdde20440b6696df9299c90a08bcbcb88cfd33380cdc81853e19ed1a"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/index.html",
+    "bytes": 5284,
+    "sha256": "db6a437afd77b9e09242773c4459a470121587564b306a54232c1f2a709cd219"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/js/app.js",
+    "bytes": 33733,
+    "sha256": "759389806c9b034fb6eb65a1a8bb7399920d3a2803bdef114bbf2290f0be72f3"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/js/assets.js",
+    "bytes": 948,
+    "sha256": "c8ef961cd7bec2e1edb19fdda4a71a8b2648de5fc34e81aed2063fc3760f4137"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/js/content.js",
+    "bytes": 10083,
+    "sha256": "4cef662c800c6dc55fab8d13dc5efa127d213acee4769fcb821fd13699825d68"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/js/sources.js",
+    "bytes": 11815,
+    "sha256": "7bd0e8ae9f36fbc5607830d6484c92df09f7067b9e8cf51a0709518901acb802"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/licenses/LXGWWenKai-OFL.txt",
+    "bytes": 5170,
+    "sha256": "4248ee53f0c37edaf4cfabe67ef620f8eef50cb2700d090c59337919d6539f1b"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/licenses/SourceHanSerif-OFL.txt",
+    "bytes": 4463,
+    "sha256": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903"
+  },
+  {
+    "path": "八十八个地名_交付包/01_作品及成果文件/八十八个地名/README_运行说明.txt",
+    "bytes": 4050,
+    "sha256": "f93477eb9898d1c420667947076246b0c69ab14e2e653380fad37b0038b0f14e"
+  },
+  {
+    "path": "八十八个地名_交付包/02_作品展示视频/作品快览_实际运行_无配音.mp4",
+    "bytes": 9381649,
+    "sha256": "cb9157416624bcaa0ae1c62bc67d7ec3fdbd75d38de8740a6f65d2e482d3855f"
+  },
+  {
+    "path": "八十八个地名_交付包/03_作品介绍文档/八十八个地名_作品介绍.pdf",
+    "bytes": 166640,
+    "sha256": "b708a5c691e6d3188598b022253f05a6a1c12d12043bdfba869b299cc4c83e53"
+  },
+  {
+    "path": "八十八个地名_交付包/04_运行或使用说明/八十八个地名_运行说明.pdf",
+    "bytes": 87330,
+    "sha256": "20838d0986af80b9d3eebf76b69faade942d7f044b1f694d14895bc716b35642"
+  },
+  {
+    "path": "八十八个地名_交付包/05_补充成果材料/事实底本与来源台账.pdf",
+    "bytes": 210311,
+    "sha256": "e85c4c9ed6c9d602dbc988ec4d5812aea89ad34e84106f3521e543c474827b66"
+  },
+  {
+    "path": "八十八个地名_交付包/05_补充成果材料/作品展示视频分镜.txt",
+    "bytes": 456,
+    "sha256": "ea5d9f679b25eddc52ae35f0e719b7970486db11daf357abcff1079eae9db051"
+  },
+  {
+    "path": "八十八个地名_交付包/05_补充成果材料/创作脚本与视觉声音规范.pdf",
+    "bytes": 263413,
+    "sha256": "3957b8d5afce83f0a26d761bcc16d69609ebd690558ca40872b22fb526e86a2a"
+  },
+  {
+    "path": "八十八个地名_交付包/05_补充成果材料/截图与匿名化清单.txt",
+    "bytes": 623,
+    "sha256": "f55bd4ee1c1f6452f731e25ccd7525252e011926bca8c0dac7d5b018969c5762"
+  },
+  {
+    "path": "八十八个地名_交付包/05_补充成果材料/禁用说法与团队人工核验清单.pdf",
+    "bytes": 182526,
+    "sha256": "6d73432e2ffee6a03dfb1260c9578f6481cdd8a53367e9a4d9dbcf4a0c34e4cd"
+  },
+  {
+    "path": "八十八个地名_交付包/05_补充成果材料/阶段交付与自检.pdf",
+    "bytes": 172533,
+    "sha256": "8e3c2b953bb81e1bdeb33a5bd7ea8eeeabef2a8d3971490ba145be96a7becd9a"
+  },
+  {
+    "path": "八十八个地名_交付包/06_第三方资源说明/第三方资源与AI素材说明.pdf",
+    "bytes": 83075,
+    "sha256": "a2b71b56bf1191eeced2d98248149d2c228117ac664df4291fabfa6f4162608b"
+  },
+  {
+    "path": "八十八个地名_交付包/07_AI工具使用补充说明/人工智能工具使用补充说明.pdf",
+    "bytes": 154044,
+    "sha256": "11b7a17b5de12ac5113d5986401f816e00a2713ef60dad2013c26d60e4f92caf"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/acceptance-extra.json",
+    "bytes": 7390,
+    "sha256": "0adf9627ebf1fea6c3ea0b7928062308b6ee2c10bfd00cb1d576d2cf5200cc6b"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/content.json",
+    "bytes": 9974,
+    "sha256": "b9f1164ad5607088c731250d5afc075b6b1dd04e1127372e809e56f1d4974b6f"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/documents-manifest.json",
+    "bytes": 1788,
+    "sha256": "1125f9c003fb570e501e774ca776b6989e22cca48640a79ed88ad4f913109545"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/pdf-qa.json",
+    "bytes": 3804,
+    "sha256": "1df82a4bf5d6ee510cbb6a72ce2be14db51a6e96e65b69fc08490ea0fd541987"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/qa-report.json",
+    "bytes": 2653,
+    "sha256": "1f8c269909e03f3c6bd6a06843a11e70cef7f408336c288c6742e48626136a45"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/sources.json",
+    "bytes": 11700,
+    "sha256": "61ed091dbc4ea0d299ac3619df5cfc4cb0beba20bba1840b4222c8b8a1a0c144"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/static-checks.json",
+    "bytes": 947,
+    "sha256": "a7dc76e856a29c44024f87c4ce18dc40ee1e3be0faaeeaa5bf150ea258e4c31c"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/video-manifest.json",
+    "bytes": 667,
+    "sha256": "a19b41777b98a32e5a17ebdbbe8068042fedd9416d4f4590c26902e0828e2738"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/交付验收.json",
+    "bytes": 3425,
+    "sha256": "038bfa91c9fab3b3701b099cd2d0231b8e86d84fa9bf47c2c34c28ddc6625370"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/史料核验.json",
+    "bytes": 23232,
+    "sha256": "077dd30406fd9fe9916b9e3849fa57e37dd23e7445c69115e9d0312b5113e816"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/图像生成记录.json",
+    "bytes": 7739,
+    "sha256": "4bf010735b21bde244d7fd86ca5cee3242eecf28372d1cd1cc0bf41c1b1c6e8c"
+  },
+  {
+    "path": "八十八个地名_交付包/工作记录/阶段1.md",
+    "bytes": 21253,
+    "sha256": "cd1ab07be4cdd816e8faa4f73060e5bc17ed1376c0abd645d73a18cfbc3a18a2"
+  },
+  {
+    "path": "单独上传/PPT逐页内容.txt",
+    "bytes": 1594,
+    "sha256": "928c2323a966686f2cdc8143b1914bf6ba5ed523542be3c8358500081c7c3821"
+  },
+  {
+    "path": "单独上传/作品截图/01_封面.png",
+    "bytes": 1974268,
+    "sha256": "6667e04c5d5d198396f24a2b16c0e627f6d5732c09919e5f5b018985a34bf509"
+  },
+  {
+    "path": "单独上传/作品截图/02_刻.png",
+    "bytes": 1091544,
+    "sha256": "656b84fb8ab3381dd8f6c556b19038755998905bd87a185863a7025e0aa01cf3"
+  },
+  {
+    "path": "单独上传/作品截图/03_出发.png",
+    "bytes": 999307,
+    "sha256": "ce27b680b558629ba898b2e135f15b0f484109304ee011bff8011ab3f8dba1d3"
+  },
+  {
+    "path": "单独上传/作品截图/04_推.png",
+    "bytes": 932938,
+    "sha256": "17915838f1e196758ec39769c86bacea080b9d2a7a7290d97eef9e7fe4d28e50"
+  },
+  {
+    "path": "单独上传/作品截图/05_一起推.png",
+    "bytes": 1258317,
+    "sha256": "3cc06f8c42b5ea24b097b77f18e743b22a3d11917ca4a6ad7769a7f0ae3dfa92"
+  },
+  {
+    "path": "单独上传/作品截图/06_读.png",
+    "bytes": 874612,
+    "sha256": "2630ca1518cbc16e13ff7514a20905105ccb6e6c6c3d48d1a2ff5f7acaa64644"
+  },
+  {
+    "path": "单独上传/作品截图/07_数.png",
+    "bytes": 649057,
+    "sha256": "d83b4c22519b13ed3d3523b96558e5f52296e3a7af1e9684a147f9774ad24937"
+  },
+  {
+    "path": "单独上传/作品截图/08_文物.png",
+    "bytes": 1084374,
+    "sha256": "82592907bed38bebe9b3429a86ba5f7c1989410a966b1b25e5db3327cf432476"
+  },
+  {
+    "path": "单独上传/作品截图/09_留.png",
+    "bytes": 776628,
+    "sha256": "f546b51b510570beec0e712ac3fcb074e01711cf5d3e4f091775e8082348a3d3"
+  },
+  {
+    "path": "单独上传/作品截图/10_尾声.png",
+    "bytes": 1011493,
+    "sha256": "696fef79ed5322292a2174d18dd4606c82def29de376c4d818898145744d1de3"
+  },
+  {
+    "path": "单独上传/作品演示视频_审核版.mp4",
+    "bytes": 9607757,
+    "sha256": "cc84ea0bfe7de22a0730f2fd7f058c0cf8300fc204b2d5cd14ff6cbe60a1bf40"
+  },
+  {
+    "path": "单独上传/作品评审视频脚本.txt",
+    "bytes": 3028,
+    "sha256": "cb9a580bb624d0104dd70cf484198a298879e4185b5edbce529c15d3cfc88a37"
+  },
+  {
+    "path": "单独上传/系统填报文案.txt",
+    "bytes": 2836,
+    "sha256": "41a7efbb0b3f35692ff4bee1f1fa7afa31f31e4e38074fec85f41ecc444b94f4"
+  },
+  {
+    "path": "团队接手手册.pdf",
+    "bytes": 112500,
+    "sha256": "18648c4dc5e5884ec41db42ce070d3fa6a3158aac2f97b32ec2bc5a1d75ef0e2"
+  }
+]

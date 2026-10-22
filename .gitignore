@@ -1,0 +1,56 @@
+# Original supplied material and local processing workspace
+/资料包_解压/
+/tmp/
+/工作记录/
+/build_*.png
+
+# Downloaded tooling and runtime dependencies
+/tools/python_packages/
+/tools/browsers/
+/tools/browser.zip
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Raw images/fonts and render/build caches; keep final WebP and QA screenshots
+**/rawfonts/
+**/raw_fonts/
+**/rawPNG/
+**/raw_png/
+**/字体原始/
+**/原始图/
+**/原图/
+**/.render-cache/
+**/render_cache/
+
+# Local session configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.codex/
+.agents/
+.aws/
+.vscode/
+.idea/
+
+# OS/editor leftovers and local diagnostic logs
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+*.log
+playwright-report/
+test-results/
+
+# Generated archives duplicate the reviewable source tree
+/交付/*.zip

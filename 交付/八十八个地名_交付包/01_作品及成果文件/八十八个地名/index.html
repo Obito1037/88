@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="八十八个地名：一根竹竿上的淮海支前路。可离线运行的交互叙事审核版。">
+  <meta name="AI-generated" content="文字、代码由AI辅助；图像为AI生成艺术示意；声音为程序合成。">
+  <title>八十八个地名 · 一根竹竿上的淮海支前路</title>
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳至作品</a>
+  <header class="topbar">
+    <button id="home-btn" class="wordmark" aria-label="回到作品封面"><span class="seal">刻</span><span>八十八个地名</span></button>
+    <span class="edition">交互叙事作品 <span class="edition-line">/</span> 交付审核版</span>
+    <div class="tools">
+      <button id="source-btn">史料 <span aria-hidden="true">↗</span></button>
+      <button id="subtitle-btn" aria-pressed="true">字幕 开</button>
+      <button id="mute-btn" aria-pressed="false">声音 开</button>
+      <button id="about-btn" aria-label="关于作品与 AI 使用说明">关于</button>
+    </div>
+  </header>
+  <main id="main" tabindex="-1">
+    <section id="cover" class="cover" aria-labelledby="cover-title">
+      <div class="cover-art" role="img" aria-label="木刻风格的竹竿艺术示意"></div>
+      <div class="cover-copy">
+        <p class="eyebrow"><span class="red-line"></span> 从一件物，走近一段路</p>
+        <h1 id="cover-title">八十八个<br>地名<span class="title-stop">。</span></h1>
+        <p class="cover-subtitle">一根竹竿上的淮海支前路</p>
+        <p class="cover-intro">刻下的，是地名。<br>被记住的，是走过这段路的人。</p>
+        <div class="start-actions"><button id="start-btn" class="button solid">开始体验 <span>→</span></button><button id="demo-btn" class="button ghost">评审快览 <small>约 3 分钟</small></button></div>
+        <p class="cover-meta">完整阅读约 6–8 分钟 · 六个交互 · 全程离线</p>
+      </div>
+      <div class="cover-side">刻 / 推 / 一起推 / 读 / 数 / 留</div>
+      <span class="art-label cover-label">艺术示意 · AI 辅助生成</span>
+      <div class="cover-bottom"><span>文字、代码由 AI 辅助 · 史料待团队人工核验</span><span>建议使用 Chrome / Edge</span></div>
+    </section>
+    <section id="experience" class="experience" hidden aria-label="交互叙事">
+      <div class="demo-bar" id="demo-bar" hidden><span>评审快览 · 自动推进</span><span id="demo-countdown"></span><button id="demo-pause">暂停演示</button><button id="demo-exit">转为自由体验</button><span class="demo-progress" id="demo-progress"></span></div>
+      <article id="scene" class="scene">
+        <div class="scene-copy">
+          <p class="eyebrow" id="scene-kicker"></p>
+          <h1 id="scene-title" tabindex="-1"></h1>
+          <p class="scene-body" id="scene-body"></p>
+          <div class="facts" id="scene-facts"></div>
+          <p class="narration" id="narration"></p>
+          <p class="writing-label">文字 · AI 辅助初稿 / 待团队核验</p>
+        </div>
+        <div class="scene-stage" id="scene-stage">
+          <img id="scene-image" class="scene-image" alt="木刻风格艺术示意" src="assets/img/bamboo.webp">
+          <span class="art-label">艺术示意 · AI 辅助生成</span>
+          <span class="stage-number" id="stage-number" aria-hidden="true"></span>
+          <div id="interaction" class="interaction"></div>
+        </div>
+      </article>
+      <div class="interaction-toolbar">
+        <div class="instruction-block"><span id="interaction-name" class="interaction-name"></span><div><p id="instruction"></p><p id="idle-hint" class="idle-hint" hidden>可以使用下方点击替代，也可直接阅读下一幕；不影响完整观看。</p><p id="interaction-status" class="interaction-status" role="status" aria-live="polite"></p></div></div>
+        <div class="scene-actions"><button id="primary-action" class="button solid">按住开始</button><button id="alternate-action" class="text-button">点击完成</button><button id="next-btn" class="button ghost">跳过 / 下一幕 <span>→</span></button></div>
+      </div>
+      <nav class="bamboo-nav" aria-label="竹竿目录，可跳转任意一幕"><div class="nav-heading"><span>一根竹竿，一条阅读的路</span><span id="progress-text">序 / 九段叙事</span></div><div id="scene-nav" class="scene-nav"></div></nav>
+    </section>
+  </main>
+  <dialog id="info-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><p id="dialog-eyebrow" class="eyebrow">证据与边界</p><button id="dialog-close" class="dialog-close" aria-label="关闭窗口">×</button></div><h2 id="dialog-title"></h2><div id="dialog-body"></div></dialog>
+  <noscript><p>请在浏览器中启用 JavaScript，再打开本作品。全部资源位于本地，无需联网。</p></noscript>
+  <script src="js/content.js"></script>
+  <script src="js/sources.js"></script>
+  <script src="js/assets.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

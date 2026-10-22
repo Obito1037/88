@@ -1,0 +1,328 @@
+{
+  "testedAt": "2026-10-22T06:22:44.732Z",
+  "method": "自动化真实Chrome/Edge headless，复制到中文与空格目录，以file://打开，并启用离线上下文；触屏测试为Playwright触屏仿真，不等同于真实手机或真实用户试用。",
+  "versions": {
+    "Chrome": "151.0.7922.34",
+    "Edge": "155.0.4283.62"
+  },
+  "results": [
+    {
+      "name": "Chrome中文与空格路径file入口",
+      "passed": true,
+      "detail": "tmp\\验收 含空格\\八十八个地名"
+    },
+    {
+      "name": "Chrome未开始不创建AudioContext",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome点击开始创建AudioContext",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome第0幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome装车完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome第2幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome协作点击替代12手",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome第4幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome第5幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome文物来源可读",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome复制路径海报真实导出",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome尾声总来源可读",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome九段自由目录全部走过",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Chrome 1366x768九幕无横向溢出",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Chrome 1920x1080九幕无横向溢出",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Chrome三次新上下文冷加载至字体就绪小于3秒",
+      "passed": true,
+      "detail": {
+        "milliseconds": [
+          182,
+          187,
+          176
+        ],
+        "method": "每次新浏览器上下文，测goto至document.fonts.ready；本机自动化测量"
+      }
+    },
+    {
+      "name": "刻字面聚焦Enter完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "刻字主按钮Enter完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "推行主按钮Enter完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "其他按钮Space未被刻字快捷键拦截",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "点击替代按钮Space未被推行快捷键拦截",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "重新开始快览重置之前交互状态",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "演示暂停冻结幕计时",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "演示继续恢复计时",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "演示转自由体验保留当前幕",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "自由体验重新开始重置交互",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "反复开始仅复用一个AudioContext",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机触屏刻完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机触屏推完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机触屏第二次协作完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机触屏读十名称",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机地名来源打开",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机触屏数至543点",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机触屏留与实际下载",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "手机竹竿目录上下滚动均常驻底部",
+      "passed": true,
+      "detail": {
+        "atTop": {
+          "x": 0,
+          "y": 747,
+          "width": 390,
+          "height": 97
+        },
+        "atBottom": {
+          "x": 0,
+          "y": 747,
+          "width": 390,
+          "height": 97
+        }
+      }
+    },
+    {
+      "name": "手机底部预留空间避免遮挡操作",
+      "passed": true,
+      "detail": {
+        "buttonsBottom": 710.421875,
+        "navTop": 747
+      }
+    },
+    {
+      "name": "手机固定导航后九幕无横向溢出",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Edge中文与空格路径file入口",
+      "passed": true,
+      "detail": "tmp\\验收 含空格\\八十八个地名"
+    },
+    {
+      "name": "Edge未开始不创建AudioContext",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge点击开始创建AudioContext",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge第0幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge装车完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge第2幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge协作点击替代12手",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge第4幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge第5幕点击替代完成",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge文物来源可读",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge复制路径海报真实导出",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge尾声总来源可读",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge九段自由目录全部走过",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edge 1366x768九幕无横向溢出",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Edge 1920x1080九幕无横向溢出",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Edge三次新上下文冷加载至字体就绪小于3秒",
+      "passed": true,
+      "detail": {
+        "milliseconds": [
+          349,
+          324,
+          264
+        ],
+        "method": "每次新浏览器上下文，测goto至document.fonts.ready；本机自动化测量"
+      }
+    },
+    {
+      "name": "补充测试离线无外网访问",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "补充测试无控制台或脚本错误",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "跳至作品链接默认隐藏且Tab聚焦可见",
+      "passed": true,
+      "detail": "最终CSS补充：隐藏负坐标链接的全页截图残影，保留键盘访问。"
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "pending": [
+    "另一台真实电脑离线复测",
+    "真实手机与真人可用性反馈",
+    "真人配音及音画同步",
+    "团队人工史料核验与截图"
+  ]
+}
